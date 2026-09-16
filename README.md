@@ -33,18 +33,20 @@ deployment.
 
 ## Repository Structure
 
+```
 solidity-sprint-2026/
 ├── README.md
 ├── .gitignore
 ├── session-01/
-│ ├── README.md
-│ └── contracts/
-│ └── NoticeBoard.sol
+│   ├── README.md
+│   └── contracts/
+│       └── NoticeBoard.sol
 ├── session-02/
-│ ├── README.md
-│ └── contracts/
-│ └── StudentRegistry.sol
+│   ├── README.md
+│   └── contracts/
+│       └── StudentRegistry.sol
 └── ... (sessions 03–13 added as sprint progresses)
+```
 
 ## Tech Stack
 
