@@ -18,7 +18,7 @@ deployment.
 | Session | Assignment                      | Status    |
 |---------|---------------------------------|-----------|
 | 01      | Build Your Own Storage Contract | Submitted |
-| 02      | Build a Student Record Contract |           |
+| 02      | Build a Student Record Contract | Submitted |
 | 03      |                                 |           |
 | 04      |                                 |           |
 | 05      |                                 |           |
