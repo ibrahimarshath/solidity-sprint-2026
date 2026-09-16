@@ -46,7 +46,6 @@ solidity-sprint-2026/
 │ └── StudentRegistry.sol
 └── ... (sessions 03–13 added as sprint progresses)
 
-
 ## Tech Stack
 
 - Language: Solidity ^0.8.x
