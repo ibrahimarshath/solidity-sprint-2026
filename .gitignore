@@ -4,3 +4,4 @@ artifacts/
 cache/
 *.log
 package-lock.json
+package.json
