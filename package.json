@@ -1,0 +1,23 @@
+{
+  "name": "solidity-sprint-2026",
+  "version": "1.0.0",
+  "description": "Name: M R Mohammed Ibrahim Arshath \r Enrolment ID: AU24UG - 016\r Date submitted: 16-09-2026\r Testnet wallet address: 0xE0d559b2eaa094e392B2d4287F7Cc765C60BbD53",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibrahimarshath/solidity-sprint-2026.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ibrahimarshath/solidity-sprint-2026/issues"
+  },
+  "homepage": "https://github.com/ibrahimarshath/solidity-sprint-2026#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.6.1"
+  }
+}

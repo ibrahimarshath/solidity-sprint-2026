@@ -15,21 +15,21 @@ deployment.
 
 ## Sessions
 
-| Session | Assignment                      | Status    |
-|---------|---------------------------------|-----------|
-| 01      | Build Your Own Storage Contract | Submitted |
-| 02      | Build a Student Record Contract | Submitted |
-| 03      |                                 |           |
-| 04      |                                 |           |
-| 05      |                                 |           |
-| 06      |                                 |           |
-| 07      |                                 |           |
-| 08      |                                 |           |
-| 09      |                                 |           |
-| 10      |                                 |           |
-| 11      |                                 |           |
-| 12      |                                 |           |
-| 13      |                                 |           |
+| Session | Assignment                                  | Status    |
+|---------|---------------------------------------------|-----------|
+| 01      | Build Your Own Storage Contract             | Submitted |
+| 02      | Build a Student Record Contract             | Submitted |
+| 03      | Make Your Contract Observable & Controlled  | Submitted |
+| 04      |                                             |           |
+| 05      |                                             |           |
+| 06      |                                             |           |
+| 07      |                                             |           |
+| 08      |                                             |           |
+| 09      |                                             |           |
+| 10      |                                             |           |
+| 11      |                                             |           |
+| 12      |                                             |           |
+| 13      |                                             |           |
 
 ## Repository Structure
 

@@ -3,3 +3,4 @@ node_modules/
 artifacts/
 cache/
 *.log
+package-lock.json
