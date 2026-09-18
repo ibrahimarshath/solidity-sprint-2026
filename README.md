@@ -37,15 +37,20 @@ deployment.
 solidity-sprint-2026/
 ├── README.md
 ├── .gitignore
+├── package.json
 ├── session-01/
-│   ├── README.md
-│   └── contracts/
-│       └── NoticeBoard.sol
+│ ├── README.md
+│ └── contracts/
+│ └── NoticeBoard.sol
 ├── session-02/
-│   ├── README.md
-│   └── contracts/
-│       └── StudentRegistry.sol
-└── ... (sessions 03–13 added as sprint progresses)
+│ ├── README.md
+│ └── contracts/
+│ └── StudentRegistry.sol
+├── session-03/
+│ ├── README.md
+│ └── contracts/
+│ └── Observable & Controlled.sol
+└── ... (sessions 04–13 added as sprint progresses)
 ```
 
 ## Tech Stack
