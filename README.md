@@ -20,7 +20,7 @@ deployment.
 | 01      | Build Your Own Storage Contract             | Submitted |
 | 02      | Build a Student Record Contract             | Submitted |
 | 03      | Make Your Contract Observable & Controlled  | Submitted |
-| 04      |                                             |           |
+| 04      | Build a Secure Ether Vault                  | Submitted |
 | 05      |                                             |           |
 | 06      |                                             |           |
 | 07      |                                             |           |
@@ -37,7 +37,6 @@ deployment.
 solidity-sprint-2026/
 ├── README.md
 ├── .gitignore
-├── package.json
 ├── session-01/
 │ ├── README.md
 │ └── contracts/
@@ -50,7 +49,11 @@ solidity-sprint-2026/
 │ ├── README.md
 │ └── contracts/
 │ └── Observable & Controlled.sol
-└── ... (sessions 04–13 added as sprint progresses)
+├── session-04/
+│ ├── README.md
+│ └── contracts/
+│ └── SecureVault.sol
+└── ... (sessions 05–13 added as sprint progresses)
 ```
 
 ## Tech Stack
