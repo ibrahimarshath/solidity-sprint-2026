@@ -21,7 +21,7 @@ deployment.
 | 02      | Build a Student Record Contract             | Submitted |
 | 03      | Make Your Contract Observable & Controlled  | Submitted |
 | 04      | Build a Secure Ether Vault                  | Submitted |
-| 05      |                                             |           |
+| 05      | Build & Deploy Your Own Token               | Submitted |
 | 06      |                                             |           |
 | 07      |                                             |           |
 | 08      |                                             |           |
@@ -53,7 +53,11 @@ solidity-sprint-2026/
 │ ├── README.md
 │ └── contracts/
 │ └── SecureVault.sol
-└── ... (sessions 05–13 added as sprint progresses)
+├── session-05/
+│ ├── README.md
+│ └── contracts/
+│ └── IA28Token.sol
+└── ... (sessions 06–13 added as sprint progresses)
 ```
 
 ## Tech Stack
