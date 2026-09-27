@@ -22,7 +22,7 @@ deployment.
 | 03      | Make Your Contract Observable & Controlled  | Submitted |
 | 04      | Build a Secure Ether Vault                  | Submitted |
 | 05      | Build & Deploy Your Own Token               | Submitted |
-| 06      |                                             |           |
+| 06      | Create Your Own NFT Collection              | Submitted |
 | 07      |                                             |           |
 | 08      |                                             |           |
 | 09      |                                             |           |
@@ -57,7 +57,11 @@ solidity-sprint-2026/
 │ ├── README.md
 │ └── contracts/
 │ └── IA28Token.sol
-└── ... (sessions 06–13 added as sprint progresses)
+├── session-06/
+│ ├── README.md
+│ └── contracts/
+│ └── NFT_Contract.sol
+└── ... (sessions 07–13 added as sprint progresses)
 ```
 
 ## Tech Stack
